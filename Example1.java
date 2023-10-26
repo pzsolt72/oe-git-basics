@@ -5,7 +5,9 @@ class Example1 {
   public static void main(String[] args) {
 
     // create a file object for the current location
+    // path = dir + / + filename
     File file = new File(args[0] + "/" args[1]);
+
 
     try {
 
