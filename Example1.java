@@ -5,7 +5,7 @@ class Example1 {
   public static void main(String[] args) {
 
     // create a file object for the current location
-    File file = new File("newFile.txt");
+    File file = new File("sample.xls");
 
     try {
 
