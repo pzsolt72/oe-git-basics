@@ -6,7 +6,7 @@ class Example1 {
 
     // 
     // create a file object for the current location
-    File file = new File("sample.xls");
+    File file = new File("newFile.txt");
 
     try {
 
