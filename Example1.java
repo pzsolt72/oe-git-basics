@@ -14,6 +14,10 @@ class Example1 {
       boolean value = file.createNewFile();
       if (value) {
         System.out.println("The new file is created.");
+        System.out.println("The new file is created.");
+        System.out.println("The new file is created.");
+        System.out.println("The new file is created.");
+        System.out.println("The new file is created.");
       }
       else {
         System.out.println("The file already exists.");
